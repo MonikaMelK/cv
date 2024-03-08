@@ -1,1 +1,1 @@
-# cv
+$ cs50 SQL course
