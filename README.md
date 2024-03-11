@@ -1,1 +1,1 @@
-$ cs50 SQL course
+$ personal website
